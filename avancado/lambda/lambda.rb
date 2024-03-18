@@ -1,0 +1,1 @@
+first kind, 'locator', options
