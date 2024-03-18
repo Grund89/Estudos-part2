@@ -10,3 +10,5 @@ numbers = { 2 => 2, 3 => 3, 4 => 4 }
 
 foo(numbers) do |key, value|
   puts "#{key} * #{value} = #{key * value}"
+  puts "#{key} + #{value} = #{key + value}"
+  puts "- - -"
