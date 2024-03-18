@@ -1,8 +1,8 @@
 def foo(numbers, &block)
- if block_given?
-   numbers.each do |key, value|
+  if block_given?
+    numbers.each do |key, value|
      block.call(key, value)
-   end
+    end
   end
 end
 
@@ -12,3 +12,4 @@ foo(numbers) do |key, value|
   puts "#{key} * #{value} = #{key * value}"
   puts "#{key} + #{value} = #{key + value}"
   puts "- - -"
+end
