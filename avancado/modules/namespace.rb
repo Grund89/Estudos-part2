@@ -12,4 +12,4 @@ module ReverseWord
 end
 
 imprimir = ReverseWord::Imprimir.new
-imprimir.call 'Oresultadp é'
+imprimir.call 'O resultado é'
