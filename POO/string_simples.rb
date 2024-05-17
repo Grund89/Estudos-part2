@@ -13,8 +13,12 @@
 #MENSAGEM
 #puts mensagem
 
-puts "Cabeçalho"
+# puts "Cabeçalho"
 
-puts "-" * 10
+# puts "-" * 10
 
-puts "texto de informção"
+# puts "texto de informção"
+
+numero = 42
+
+puts "o número é o %05"
