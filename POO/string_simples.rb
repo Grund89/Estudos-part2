@@ -12,3 +12,9 @@
 #Bem vindo(a) ao meu programa!
 #MENSAGEM
 #puts mensagem
+
+puts "Cabeçalho"
+
+puts "-" * 10
+
+puts "texto de informção"
