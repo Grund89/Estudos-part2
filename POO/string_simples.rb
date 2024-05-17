@@ -3,14 +3,12 @@
 
 #puts mensagem
 
-nome = "Douglas"
+#nome = "Douglas"
 
 #para strings muito grande
-mensagem = <<~MENSAGEM
-Olá #{nome}
+#mensagem = <<~MENSAGEM
+#Olá #{nome}
 
-Bem vindo(a) ao meu programa!
-MENSAGEM
-
-
-puts mensagem
+#Bem vindo(a) ao meu programa!
+#MENSAGEM
+#puts mensagem
