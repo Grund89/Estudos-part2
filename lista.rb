@@ -3,4 +3,4 @@ list_2 = [4, 5, 6]
 
 resultado = list_1 + list_2
 
-puts resultado
+p resultado
