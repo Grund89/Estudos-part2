@@ -1,1 +1,1 @@
-h = { :nome => "Douglas", :idade => 34 }
+h = { nome: "Douglas", idade: 34 }
